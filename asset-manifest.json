@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/landing-page-react-tailwind-css/static/css/main.8bdec45e.css",
-    "main.js": "/landing-page-react-tailwind-css/static/js/main.d88ab733.js",
+    "main.css": "/landing-page-react-tailwind-css/static/css/main.6ad23f70.css",
+    "main.js": "/landing-page-react-tailwind-css/static/js/main.34ad8298.js",
     "static/media/video-menos-calidad.webm": "/landing-page-react-tailwind-css/static/media/video-menos-calidad.4c5e232bcef3639409b1.webm",
     "index.html": "/landing-page-react-tailwind-css/index.html",
-    "main.8bdec45e.css.map": "/landing-page-react-tailwind-css/static/css/main.8bdec45e.css.map",
-    "main.d88ab733.js.map": "/landing-page-react-tailwind-css/static/js/main.d88ab733.js.map"
+    "main.6ad23f70.css.map": "/landing-page-react-tailwind-css/static/css/main.6ad23f70.css.map",
+    "main.34ad8298.js.map": "/landing-page-react-tailwind-css/static/js/main.34ad8298.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bdec45e.css",
-    "static/js/main.d88ab733.js"
+    "static/css/main.6ad23f70.css",
+    "static/js/main.34ad8298.js"
   ]
 }
