@@ -14,10 +14,10 @@ function App() {
 
         {/* Logo */}
 
-        <header className='absolute left-0 top-0 w-full py-10 px-24 flex items-center justify-center z-50 text-white'>
+        <header className='absolute left-0 top-0 w-full py-10 px-16 flex items-center justify-center z-50 text-white text-center'>
 
           <a href="" className='flex items-center justify-center'>
-            <span className='text-4xl font-bolder text-white capitalize -tracking-wider'>Usando Tailwind CSS</span>
+            <span className='text-3xl font-bolder text-white capitalize -tracking-wider'>Usando Tailwind CSS</span>
           </a>
 
         </header>
@@ -32,9 +32,9 @@ function App() {
 
         { /* Texto */ }
 
-        <div className='px-0 py-24 flex flex-wrap flex-col items-start gap-4 z-50 text-white lg:w-3/5 md:1/2 md:px-10'>
+        <div className='px-0 py-32 flex flex-wrap flex-col items-start gap-4 z-50 text-white lg:w-3/5 md:1/2 md:px-10'>
 
-          <h1 className='text-5xl font-semibold'>Bienvenidos.</h1>
+          <h1 className='text-3xl font-semibold text-center'>Bienvenidos</h1>
           <p className='leading-relaxed mt-4 text-gray-200 md:block'>Esta es un Landing Page creada con <strong>React</strong> (Create react app) y estilizada con <strong>Tailwind CSS.</strong> Es el primer proyecto donde estilizo con este framework. Al costado dejo mis redes sociales con mi Portafolio donde tengo alojados mis otros proyectos.</p>
           <button className='text-black bg-white border-0 py-2 px-8 my-4 font-semibold tracking-widest uppercase hover:bg-gray-300 hover:scale-125 transition'>Explora</button>
 
